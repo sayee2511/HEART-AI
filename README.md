@@ -46,6 +46,7 @@ HEART-AI/
 ├── requirements.txt
 └── .gitignore
 
+
 ## Architecture
 
-![HEART-AI Architecture](docs/HEART-AI.png)
+![HEART-AI Architecture](HEART-AI.png)
