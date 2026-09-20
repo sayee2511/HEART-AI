@@ -35,7 +35,6 @@ The project uses a 1D CNN designed for 12-lead ECG signals.
 
 ## Project Structure
 
-```text
 HEART-AI/
 ├── backend/
 ├── frontend/
@@ -46,3 +45,7 @@ HEART-AI/
 ├── threshold_analysis.py
 ├── requirements.txt
 └── .gitignore
+
+## Architecture
+
+![HEART-AI Architecture](docs/HEART-AI.png)
